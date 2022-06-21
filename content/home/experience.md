@@ -36,7 +36,7 @@ experience:
         
   - title: Visiting Researcher at the Center for Civil Society Research
     company: WZB - Berlin Social Science Center
-    company_url: ''
+    company_url: 'https://www.wzb.eu/en/persons/lennart-schurmann'
     company_logo: WZB
     location: Berlin, Germany
     date_start: '2022-06-01'
@@ -47,7 +47,7 @@ experience:
  
   - title: Visiting Researcher at the Hot Politics Lab
     company: University of Amsterdam
-    company_url: ''
+    company_url: 'https://www.hotpolitics.eu/team/'
     company_logo: UvA
     location: Amsterdam, Netherlands
     date_start: '2021-09-01'
