@@ -33,7 +33,7 @@ item:
     organization: University of Cologne
     organization_url: 
     title: How Can Protest Change Politics? Social Movements and Political Representation (BA Seminar)
-    url: ''
+    url: 'https://cccp.uni-koeln.de/sites/cccp/Lehre/2022_SS/Syllabus_Soziale_Bewegungen_und_Politische_Repra__sentation.pdf'
   - certificate_url: 
     date_end: ''
     date_start: '2022-05-01'
