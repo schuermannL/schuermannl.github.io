@@ -50,9 +50,9 @@ superuser: true
 title: Lennart Schürmann
 ---
 
-Hi, I am a doctoral researcher at the _Cologne Center for Comparative Politics_. My research interests include protest, social movements, political participation, political representation, European Politics and computational social sciences. 
+Hi, I am a doctoral researcher at the _Cologne Center for Comparative Politics_. My research interests include protest, social movements, political participation, political representation, electoral systems and computational social sciences. 
 
-In my PhD thesis, I study the [Political Representation of Protest in European Democracies]({{< ref "https://schuermannl.github.io/project/protest_representation" >}}). To that end, I apply a variety of methods with a special focus on computational text analysis tools.
+In my PhD thesis, I study the [Political Representation of Protest in European Democracies]({{< relref "/protest_representation" >}}). To that end, I apply a variety of methods with a special focus on computational text analysis tools.
 
 
 
