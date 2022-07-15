@@ -34,6 +34,17 @@ experience:
 #        * Writing PhD Thesis: _The Political Representation of Protest in European Democracies_ 
 #        * Teaching BA Seminar: _How Can Protest Change Politics? Social Movements and Political Representation_ 
         
+#  - title: Visiting Researcher at the Department of Political and Social Sciences
+#    company: Pompeu Fabra University
+#    company_url: ''
+#    company_logo: UPF
+#    location: Barcelona, Spain
+#    date_start: '2022-10-01'
+#    date_end: '2022-10-30'
+#    description: |2-
+#        Responsibilities include:
+#        * Conducting interviews with Social Movement activists and policy-makers
+
   - title: Visiting Researcher at the Center for Civil Society Research
     company: WZB - Berlin Social Science Center
     company_url: 'https://www.wzb.eu/en/persons/lennart-schurmann'
@@ -82,7 +93,7 @@ experience:
   - title: Research Assistant in the  Migration and Mobility Research Group
     company: Federal Institute for Population Research
     company_url: ''
-    company_logo: 
+    company_logo: BiB
     location: Wiesbaden, Germany
     date_start: '2018-09-01'
     date_end: '2019-02-15'
