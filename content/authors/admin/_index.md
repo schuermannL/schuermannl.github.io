@@ -50,7 +50,7 @@ superuser: true
 title: Lennart Schürmann
 ---
 
-Hi, I am a doctoral researcher at the _Cologne Center for Comparative Politics_ and a PhD fellow at the _Cologne Graduate School in Management, Economics and the Social Sciences_. I have been a visiting researcher at _University of Amsterdam_, _WZB - Berlin Social Science Center_, and _Pompeu Fabra University_ in Barcelona.  
+Hi, I am a doctoral researcher at the [_Cologne Center for Comparative Politics_](https://cccp.uni-koeln.de/en/) and a PhD fellow at the [_Cologne Graduate School in Management, Economics and Social Sciences_](https://cgs.uni-koeln.de/en/doctoral-phd-programmes). I have been a visiting researcher at [_University of Amsterdam_](https://www.uva.nl/en), [_WZB - Berlin Social Science Center_](https://www.wzb.eu/en), and [_Pompeu Fabra University_](https://www.upf.edu) in Barcelona.  
 
 My research interests include protest, social movements, political participation, political representation, electoral systems and computational social sciences. In my PhD thesis, I study the [Political Representation of Protest in European Democracies]({{< relref "/protest_representation" >}}). To that end, I apply a variety of methods with a special focus on computational text analysis tools.
 
