@@ -34,16 +34,16 @@ experience:
 #        * Writing PhD Thesis: _The Political Representation of Protest in European Democracies_ 
 #        * Teaching BA Seminar: _How Can Protest Change Politics? Social Movements and Political Representation_ 
         
-#  - title: Visiting Researcher at the Department of Political and Social Sciences
-#    company: Pompeu Fabra University
-#    company_url: ''
-#    company_logo: UPF
-#    location: Barcelona, Spain
-#    date_start: '2022-10-01'
-#    date_end: '2022-10-30'
-#    description: |2-
-#        Responsibilities include:
-#        * Conducting interviews with Social Movement activists and policy-makers
+  - title: Visiting Researcher at the Department of Political and Social Sciences
+    company: Pompeu Fabra University
+    company_url: ''
+    company_logo: UPF
+    location: Barcelona, Spain
+    date_start: '2022-10-01'
+    date_end: '2022-11-30'
+    description: |2-
+        Responsibilities include:
+        * Conducting interviews with Social Movement activists and policy-makers
 
   - title: Visiting Researcher at the Center for Civil Society Research
     company: WZB - Berlin Social Science Center
