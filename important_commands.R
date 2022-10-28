@@ -14,6 +14,5 @@ blogdown::new_post("My new post")
 # 4. Build site (fills in the public)
 blogdown::build_site()
 
+# then delete "docs" and rename "public" into "docs"
 
-
-build_site()
