@@ -16,3 +16,11 @@ blogdown::build_site()
 
 # then delete "docs" and rename "public" into "docs"
 
+
+################### How to: ############################
+# 1. Change CV
+  ## change resume.pdf file in folder uploads
+
+# 2.  Add a new publication
+  ## open folder: /Users/Lennart/github/schuermannl.github.io/content/publication/
+  ## duplicate older publication folder and adjust entries
