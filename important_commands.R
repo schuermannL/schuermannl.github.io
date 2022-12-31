@@ -19,7 +19,7 @@ blogdown::build_site()
 
 ################### How to: ############################
 # 1. Change CV
-  ## change resume.pdf file in folder uploads
+  ## change resume.pdf file in folder /Users/Lennart/github/schuermannl.github.io/themes/starter-hugo-academic/static/uploads
 
 # 2.  Add a new publication
   ## open folder: /Users/Lennart/github/schuermannl.github.io/content/publication/
