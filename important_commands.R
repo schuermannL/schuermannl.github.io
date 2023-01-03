@@ -24,3 +24,7 @@ blogdown::build_site()
 # 2.  Add a new publication
   ## open folder: /Users/Lennart/github/schuermannl.github.io/content/publication/
   ## duplicate older publication folder and adjust entries
+
+# 3. Change Contact informationn (e.g., phone):
+  ## open folder: /Users/Lennart/github/schuermannl.github.io/content/publication/
+  ## duplicate older publication folder and adjust entries

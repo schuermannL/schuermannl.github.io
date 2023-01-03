@@ -25,15 +25,15 @@ content:
 #      captcha: false
 
   # Contact details (edit or remove options as required)
-  email: schuermann@wiso.uni-koeln.de
-  phone: + 49 221 470-76359
+  email: lennart.schuermann@wzb.eu
+# phone: + 49 221 470-76359
   address:
-    street: Herbert-Lewin-Straße 2
-    city: Cologne
-    postcode: '50674'
+    street: Reichpietschufer 50
+    city: Berlin
+    postcode: '10785'
     country: Germany
     country_code: DE
-  directions: IBW-Building, Room 3.29
+  directions: Room D.023
 
 design:
   columns: '2'
