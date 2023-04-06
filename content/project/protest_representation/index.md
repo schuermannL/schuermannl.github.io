@@ -15,7 +15,7 @@ tags:
 - Protest
 - Social Movements
 - Representation
-title: The Political Representation of Protest in European Democracies (PhD Thesis)
+title: Political Representation and Protest Politics in European Democracies (PhD Thesis)
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -32,8 +32,3 @@ To answer the research questions of my dissertation project, I use a mixed-metho
 
 My results indicate that individual politicians and political parties are more responsive to protest events within the borders of their electoral districts. Comparing different levels of the European multilevel system, I can show that the protest location is most influential for legislators on subnational levels. Beyond that, my findings underline the importance of politicians' biographies, which are, besides party ideological and strategic consideration, crucial to explain their responsiveness to political protests. 
 
-## Paper projects 
-1. Do you need to be violent to be heard? Responsiveness and emotional reactions of Western European parties to political protests, _Working paper, available upon request_  
-2. The Impact of Local Protests on Political Communication: Evidence from Fridays for Future in Germany. _Working paper, available upon request_    
-3. It’s all about location! Strategic incentives for MPs in the German multilevel system to respond to COVID-19 protests (co-authored with Jan Schwalbach \& Noam Himmelrath), _Working paper, available upon request_  
-4. Do Restrictions of Protest Rights Provoke Protest Participation? Evidence from the Spanish Law on Citizen Security, _Working paper, available upon request_

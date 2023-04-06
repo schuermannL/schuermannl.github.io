@@ -10,7 +10,7 @@ image:
   focal_point: ""
   preview_only: false
 projects:
-- regional_representation
+- protest_representation
 publication: In *Electoral Studies*
 publication_short: 
 publication_types:

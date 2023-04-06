@@ -54,7 +54,9 @@ title: Lennart Schürmann
 
 Hi, I am a Research Fellow at the [_Center for Civil Society Research_](https://www.wzb.eu/en/research/dynamics-of-political-systems/center-for-civil-society-research) at WZB Berlin Social Science Center. Furthermore, I am a PhD Candidate at the [_Cologne Center for Comparative Politics_](https://cccp.uni-koeln.de/en/) at University of Cologne. Previously, I have been a visiting researcher at [_University of Amsterdam_](https://www.uva.nl/en), [_WZB Berlin Social Science Center_](https://www.wzb.eu/en), and [_Pompeu Fabra University_](https://www.upf.edu) in Barcelona.  
 
-My research interests include protest, social movements, political participation, political representation, electoral systems and computational social sciences. In my PhD thesis, I study the [Political Representation of Protest in European Democracies]({{< relref "/protest_representation" >}}). To that end, I apply a variety of methods with a special focus on computational text analysis tools.
+My research interests include protest, social movements, political participation, political representation, electoral systems and computational social sciences. In my PhD thesis, I study the [Political Representation and Protest Politics in European Democracies]({{< relref "/protest_representation" >}}). To that end, I apply a variety of methods with a special focus on computational text analysis tools.
+
+My work appeared in _Electoral Studies_, _Legislative Studies Quarterly_, and the _Journal of Elections, Public Opinion and Parties_.
 
 
 

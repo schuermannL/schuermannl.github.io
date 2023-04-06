@@ -11,7 +11,7 @@ image:
   focal_point: ""
   preview_only: false
 projects:
-- regional_representation
+- protest_representation
 publication: In *Legislative Studies Quarterly*
 publication_short: 
 publication_types:
