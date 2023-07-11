@@ -56,7 +56,7 @@ Hi, I am a Research Fellow at the [_Center for Civil Society Research_](https://
 
 My research interests include protest, social movements, political participation, political representation, electoral systems and computational social sciences. In my PhD thesis, I study the [Political Representation and Protest Politics in European Democracies]({{< relref "/protest_representation" >}}). To that end, I apply a variety of methods with a special focus on computational text analysis tools.
 
-My work appeared in _Electoral Studies_, _Legislative Studies Quarterly_, and the _Journal of Elections, Public Opinion and Parties_.
+My work appeared in the _British Journal of Political Science_, _Electoral Studies_, _Legislative Studies Quarterly_, and the _Journal of Elections, Public Opinion and Parties_.
 
 
 
