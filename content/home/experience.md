@@ -47,7 +47,7 @@ experience:
         * Writing PhD Thesis: _The Political Representation of Protest in European Democracies_
         * Teaching BA Seminar: _How Can Protest Change Politics? Social Movements and Political Representation_ 
         
-  - title: Visiting Researcher at the _Department of Political and Social Sciences_
+  - title: Visiting Researcher in the Research Group _Institutions and Political Actors_
     company: Pompeu Fabra University
     company_url: ''
     company_logo: UPF
@@ -104,7 +104,7 @@ experience:
         Responsibilities include:
         * Analysis of regional representation in the political communication of German politicians (Master’s Thesis Project)
         
-  - title: Research Assistant in the _Migration and Mobility Research Group_
+  - title: Research Assistant in the Research Group _Migration and Mobility_
     company: Federal Institute for Population Research
     company_url: ''
     company_logo: BiB
