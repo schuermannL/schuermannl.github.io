@@ -34,7 +34,20 @@ experience:
 #        * Writing PhD Thesis: _The Political Representation of Protest in European Democracies_ 
 #        * Teaching BA Seminar: _How Can Protest Change Politics? Social Movements and Political Representation_ 
         
-  - title: Visiting Researcher at the Department of Political and Social Sciences
+  - title: Doctoral Researcher at the _Cologne Center for Comparative Politics_ 
+    company: University of Cologne
+    company_url: ''
+    company_logo: UoC
+    location: Cologne, Germany
+    date_start: '2019-10-01'
+    date_end: '2023-12-31'
+    description: |2-
+        Responsibilities include:
+        * Member of the Chair for European and Mulrilevel Politics (Prof. Dr. Sven Oliver Proksch)
+        * Writing PhD Thesis: _The Political Representation of Protest in European Democracies_
+        * Teaching BA Seminar: _How Can Protest Change Politics? Social Movements and Political Representation_ 
+        
+  - title: Visiting Researcher at the _Department of Political and Social Sciences_
     company: Pompeu Fabra University
     company_url: ''
     company_logo: UPF
@@ -45,7 +58,7 @@ experience:
         Responsibilities include:
         * Conducting interviews with Social Movement activists and policy-makers
 
-  - title: Visiting Researcher at the Center for Civil Society Research
+  - title: Visiting Researcher at the _Center for Civil Society Research_
     company: WZB - Berlin Social Science Center
     company_url: 'https://www.wzb.eu/en/persons/lennart-schurmann'
     company_logo: WZB
@@ -56,7 +69,7 @@ experience:
         Responsibilities include:
         * Conceptualization of an article on why politicians in European democracies refer to protests and other collective actions in parliamentary speeches
  
-  - title: Visiting Researcher at the Hot Politics Lab
+  - title: Visiting Researcher in the Programme Group _Challenges to Democratic Representation_
     company: University of Amsterdam
     company_url: 'https://www.hotpolitics.eu/team/'
     company_logo: UvA
@@ -65,6 +78,7 @@ experience:
     date_end: '2021-12-31'
     description: |2-
         Responsibilities include:
+        * Member of the _Hot Politics Lab_
         * Development of a measurement of emotional appeals to collective actions in multi-lingual political texts
         
   - title: Policy Intern 
@@ -79,7 +93,7 @@ experience:
         * Preparation of policy positions on European Stability Mechanism
         * Writing of a policy paper published in _Makronom - Online-Magazin für Wirtschaftspolitik_
         
-  - title: Research Intern in the Computational Social Science Department
+  - title: Research Intern in the _Computational Social Science Department_
     company: GESIS - Leibniz Institute for the Social Sciences
     company_url: ''
     company_logo: gesis
@@ -90,7 +104,7 @@ experience:
         Responsibilities include:
         * Analysis of regional representation in the political communication of German politicians (Master’s Thesis Project)
         
-  - title: Research Assistant in the  Migration and Mobility Research Group
+  - title: Research Assistant in the _Migration and Mobility Research Group_
     company: Federal Institute for Population Research
     company_url: ''
     company_logo: BiB
@@ -101,7 +115,7 @@ experience:
         Responsibilities include:
         * Development of an online survey for the German _Ministry of Foreign Affairs_
         
-  - title: Research Assistant and Teaching Assistant at the Chair for Comparative Politics
+  - title: Research Assistant and Teaching Assistant at the _Chair for Comparative Politics_
     company: Goethe University Frankfurt
     company_url: ''
     company_logo: Goethe
@@ -113,7 +127,7 @@ experience:
         * Development of a dataset for the DFG research project _Individualized Representation and its Sources_
         * Teaching BA Tutorials: _Applied Statistical Analysis: Political Representation by Parliamentary Elites_
         
-  - title: Administrative Assistant at the GraduateCenter Social Sciences
+  - title: Administrative Assistant at the _GraduateCenter Social Sciences_
     company: Goethe University Frankfurt
     company_url: ''
     company_logo: Goethe
@@ -125,7 +139,7 @@ experience:
         * Administration of PhD applications
         * Counseling concerning research funding opportunities
         
-  - title: Research Intern and Research Assistant
+  - title: Research Intern and Research Assistant in the Research Group _Transnational Diffusion of Innovation_
     company: Max Planck Institute for the Study of Societies
     company_url: ''
     company_logo: MPG
@@ -136,7 +150,7 @@ experience:
         Responsibilities include:
         * Collection of publication records of social scientists at German universities and research institutes
     
-  - title: Teaching Assistant at the Institute of Sociology and Social Psychology 
+  - title: Teaching Assistant at the _Institute of Sociology and Social Psychology_ 
     company: University of Cologne
     company_url: ''
     company_logo: UoC
