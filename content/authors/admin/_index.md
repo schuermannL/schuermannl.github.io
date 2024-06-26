@@ -50,9 +50,9 @@ superuser: true
 title: Lennart Schürmann
 ---
 
-Hi, I am a Post-Doctoral Research Fellow at the [_Center for Civil Society Research_](https://www.wzb.eu/en/research/dynamics-of-political-systems/center-for-civil-society-research) at WZB Berlin Social Science Center, where I am part of the WZB ProtestMonitoring, a research project on protest and political radicalization in Germany. 
+Hi, I am a Post-Doctoral Research Fellow at the [_Center for Civil Society Research_](https://www.wzb.eu/en/research/dynamics-of-political-systems/center-for-civil-society-research) at WZB Berlin Social Science Center, where I am part of the WZB ProtestMonitoring, a research project on protest and political radicalization in Germany. From January to June 2025, I will be WZB Harvard Merit Fellow/Visiting Scholar at Minda de Gunzburg Center for European Studies at [Harvard University](https://ces.fas.harvard.edu).
 
-Previously, I was a PhD Candidate at the [_Cologne Center for Comparative Politics_](https://cccp.uni-koeln.de/en/) at University of Cologne. I have also been a visiting researcher at [_University of Amsterdam_](https://www.uva.nl/en), [_WZB Berlin Social Science Center_](https://www.wzb.eu/en), and [_Pompeu Fabra University_](https://www.upf.edu) in Barcelona. From January to June 2025, I will be WZB Harvard Merit Fellow/Visiting Scholar at Minda de Gunzburg Center for European Studies, [_Harvard University_](https://ces.fas.harvard.edu).
+Previously, I was a PhD Candidate at the Cologne Center for Comparative Politics at [University of Cologne](https://cccp.uni-koeln.de/en/). I have also been a visiting researcher at [University of Amsterdam](https://www.uva.nl/en), [WZB Berlin Social Science Center](https://www.wzb.eu/en), and [Pompeu Fabra University](https://www.upf.edu) in Barcelona. 
 
 My research interests are protest, social movements, political participation, political representation, electoral systems and computational social sciences. In my PhD thesis, I studied [Political Representation and Protest Politics in European Democracies]({{< relref "/protest_representation" >}}). I apply a variety of methods with special focus on computational text analysis tools and survey experiments.
 
