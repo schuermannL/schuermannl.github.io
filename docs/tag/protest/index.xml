@@ -5,7 +5,7 @@
     <link>https://example.com/tag/protest/</link>
       <atom:link href="https://example.com/tag/protest/index.xml" rel="self" type="application/rss+xml" />
     <description>Protest</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Protest</title>
@@ -13,7 +13,32 @@
     </image>
     
     <item>
-      <title>Political Representation and Protest Politics in European Democracies (PhD Thesis)</title>
+      <title>Empowering Voices Beyond Ballots?</title>
+      <link>https://example.com/project/voices_beyond_ballots/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/voices_beyond_ballots/</guid>
+      <description>&lt;p&gt;Many diagnose that representative democracy is in a state of crisis, with an increasing alienation between citizens and elected representatives. In this crisis of representation, other political actors, such as protest activists, enter the stage and increasingly claim to represent either parts of the electorate or subjects without formal representation. One example are the environmentalist activists from the Last Generation who declared to speak on behalf of both the entire humanity and nature. Another example is the xenophobic movement PEGIDA, who publicly stated they speak for the entire ’German people.’ Such actors have no official electoral mandate and selfauthorize their representative claims. &lt;em&gt;Voices-Beyond-Ballots&lt;/em&gt;  will extend established theories of political representation and employ innovative empirical approaches to (1) identify the circumstances under which these self- authorized political actors use such representative claims, (2) elucidate how self-authorized and elected actors use representative claims differently, (3) and analyze the factors influencing citizens’ receptivity to these claims.&lt;/p&gt;
+&lt;p&gt;I expect non-elected actors to increasingly use representative claims, particularly to speak for those who have no other voice in politics. Furthermore, I expect that people do actually accept such claims from non-elected actors, yet more if they refer to people (e.g. future generations) or subjects (e.g. nature) that have no formal representation in politics. At the same time, such claims-making might also undermine people’s beliefs in representative claims by elected officials. Whether this development is good or bad news for representative democracy, as we know, remains thus an open question that &lt;em&gt;Voices-Beyond-Ballots&lt;/em&gt;  will further illuminate.&lt;/p&gt;
+&lt;p&gt;To fully understand these dynamics, we currently lack systematic and rich data on representative claims by non- elected political actors. Therefore a key ambition of &lt;em&gt;Voices-Beyond-Ballots&lt;/em&gt;  is to provide unique data of representative claims by protest activists based on video-enhanced protest event data from German protests from the beginning of the Great Recession in 2008 until 2023. This dataset combines classical protest event analysis with video and text data of the speeches made at protest events. In a second step &lt;em&gt;Voices-Beyond-Ballots&lt;/em&gt;  analyzes the citizens’ receptivity to these claims. To measure them, &lt;em&gt;Voices-Beyond-Ballots&lt;/em&gt;  will use survey experiments in which citizens are presented with varying representative claims by non-elected and elected actors to measure how citizens perceive these claims. All collected data will be made publicly available.&lt;/p&gt;
+&lt;p&gt;Overall, &lt;em&gt;Voices-Beyond-Ballots&lt;/em&gt;  offers ground-breaking combinations of the supply side (what protest actors say) and the demand side (how citizens receive) of representative claims by non-elected actors, and thus builds bridges between political representation, social movement and communication research. By surpassing the traditional politician-citizen paradigm, the project’s outcomes promise to enhance our comprehension of non-electoral representation in democracies.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Voices-Beyond-Ballots&lt;/em&gt; is funded by funded through the &lt;a href=&#34;https://ces.fas.harvard.edu/people/lennart-schuermann&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WZB Harvard Merit Fellowship 2025/26&lt;/a&gt; and a &lt;a href=&#34;https://www.daad.de/en/studying-in-germany/scholarships/daad-funding-programmes/prime/prime-fellows-202324/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DAAD PRIME Grant&lt;/a&gt;. The research project will run from January 2025 until December 2026 and will be conducted at Harvard University, the European University Institute, the Free University of Berlin, and the WZB Berlin Social Science Center.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Political Protest and Radicalization</title>
+      <link>https://example.com/project/protestmonitoring/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/protestmonitoring/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.wzb.eu/en/research/dynamics-of-political-systems/center-for-civil-society-research/projects/politischer-protest-und-radikalisierung-protest-monitoring&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;External Link to the project website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Since the 1990s, the protest scene in Germany has been shaped by issues such as migration, the environment and welfare. These issues have often led to violent mobilisations and counter-mobilisations on the streets. The aim of the WZB ProtestMonitoring is to monitor the German protest landscape in a systematic way. On an ongoing basis, we analyse the temporal and spatial contexts of protest events, the discursive opportunity structures of protest, as well as the radicalisation processes of individual protest actors.&lt;/p&gt;
+&lt;p&gt;Methodologically, our project is based on a comprehensive data collection, which comprises three closely related collection instruments: First, we systematically analyse protest events since the 1950s (including form of protest, place, time, number of participants and issues). This is retrospectively linked to the Prodat dataset. Second, we examine public debates in the context of protest events and political violence, as well as long-term dynamics of radicalisation in the public sphere. Third, we analyse the profiles of radical protest actors and their socio-structural characteristics. Empirically, the project combines automated and manual methods of quantitative content analysis based on media coverage in national and regional newspapers as well as biographical and social network data.&lt;/p&gt;
+&lt;p&gt;The project is part of the top research cluster &lt;a href=&#34;https://www.motra.info/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Monitoring System and Transfer Platform Radicalization&lt;/em&gt;&lt;/a&gt; (MOTRA), a project funded by the German Federal Ministry of Education and Research and the Federal Ministry of the Interior in the context of civil security research. At the WZB, the Centre for Civil Society Research and the Department of Migration, Integration, Transnationalisation (MIT) are involved.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Political Representation and Protest Politics in European Democracies</title>
       <link>https://example.com/project/protest_representation/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/protest_representation/</guid>

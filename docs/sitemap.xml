@@ -26,6 +26,20 @@
   <url>
     <loc>https://example.com/publication/</loc><lastmod>2024-06-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/tag/campaigning/</loc><lastmod>2023-08-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/project/voices_beyond_ballots/</loc><lastmod>2023-08-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/project/</loc><lastmod>2023-08-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/protest/</loc><lastmod>2023-08-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/representation/</loc><lastmod>2023-08-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/social-movements/</loc><lastmod>2023-08-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/</loc><lastmod>2023-08-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc></loc><lastmod>2023-07-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/bjpols_2023/</loc><lastmod>2023-07-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -34,19 +48,13 @@
   <url>
     <loc>https://example.com/publication/jepop_2023/</loc><lastmod>2023-04-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/project/protestmonitoring/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/publication/electoralstudies_2023/</loc><lastmod>2022-12-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/tag/electoral-systems/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/project/protest_representation/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/project/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tag/protest/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tag/representation/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tag/social-movements/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tags/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-03-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

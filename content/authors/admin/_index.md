@@ -1,5 +1,5 @@
 ---
-bio: My research interests include protest, social movements, political participation, political representation, electoral systems and computational social sciences.
+bio: My research interests include protest, social movements, political participation, political representation, electoral systems, European politics and computational social sciences.
 education:
   courses:
   - course: PhD in Political Science
@@ -25,6 +25,7 @@ interests:
 - Political Participation 
 - Political Representation
 - Electoral Systems
+- European Politics
 - Computational Social Sciences
 organizations:
 - name: WZB Berlin Social Science Center
@@ -50,15 +51,15 @@ superuser: true
 title: Lennart Schürmann
 ---
 
-Hi, I am a Post-Doctoral Research Fellow at the [_Center for Civil Society Research_](https://www.wzb.eu/en/research/dynamics-of-political-systems/center-for-civil-society-research) at WZB Berlin Social Science Center, where I am part of the WZB ProtestMonitoring, a research project on protest and political radicalization in Germany. From January to June 2025, I will be WZB Harvard Merit Fellow/Visiting Scholar at Minda de Gunzburg Center for European Studies at [Harvard University](https://ces.fas.harvard.edu).
+Hi, I am a [Post-Doctoral Research Fellow](https://www.wzb.eu/en/persons/lennart-schurmann) at the Center for Civil Society Research at WZB Berlin Social Science Center, where I am part of the [WZB ProtestMonitoring](https://www.wzb.eu/en/research/dynamics-of-political-systems/center-for-civil-society-research/projects/politischer-protest-und-radikalisierung-protest-monitoring), a research project on protest and political radicalization in Germany. From January to June 2025, I will be WZB Harvard Merit Fellow/Visiting Scholar at Minda de Gunzburg Center for European Studies at [Harvard University](https://ces.fas.harvard.edu/people/lennart-schuermann).
 
 Previously, I was a PhD Candidate at the Cologne Center for Comparative Politics at [University of Cologne](https://cccp.uni-koeln.de/en/). I have also been a visiting researcher at [University of Amsterdam](https://www.uva.nl/en), [WZB Berlin Social Science Center](https://www.wzb.eu/en), and [Pompeu Fabra University](https://www.upf.edu) in Barcelona. 
 
-My research interests are protest, social movements, political participation, political representation, electoral systems and computational social sciences. In my PhD thesis, I studied [Political Representation and Protest Politics in European Democracies]({{< relref "/protest_representation" >}}). I apply a variety of methods with special focus on computational text analysis tools and survey experiments.
+My research interests include protest, social movements, political participation, political representation, electoral systems, European politics and computational social sciences. In my PhD thesis, I studied [Political Representation and Protest Politics in European Democracies]({{< relref "/protest_representation" >}}). I apply a variety of methods with special focus on computational text analysis tools and survey experiments.
 
-My work appeared in the [_British Journal of Political Science_](https://doi.org/10.1017/S0007123423000169), [_European Journal of Political Research_](https://doi.org/10.1111/1475-6765.12704), [_Electoral Studies_](https://doi.org/10.1016/j.electstud.2022.102575), [_Legislative Studies Quarterly_](https://doi.org/10.1111/lsq.12379), and the [_Journal of Elections, Public Opinion and Parties_](https://doi.org/10.1080/17457289.2023.2189729). 
+My work appeared in the [_British Journal of Political Science_](https://doi.org/10.1017/S0007123423000169), [_European Journal of Political Research_](https://doi.org/10.1111/1475-6765.12704), [_Electoral Studies_](https://doi.org/10.1016/j.electstud.2022.102575), [_Legislative Studies Quarterly_](https://doi.org/10.1111/lsq.12379), and the [_Journal of Elections, Public Opinion and Parties_](https://doi.org/10.1080/17457289.2023.2189729) among others. 
 
-I am engaged in public debates on the political effects of protests and have contributed expert opions to [_Tagesschau_](https://www.tagesschau.de/inland/gesellschaft/fridays-for-future-244.html) (ARD) [_Quarks_](https://www.instagram.com/p/Cxmf-IHKDoX/) (WDR), [_taz-die tageszeitung_](https://taz.de/Klimastreik-von-Fridays-und-Verdi/!5995664/), and [_Frankfurter Rundschau_](https://www.fr.de/politik/verdi-und-fridays-for-future-warnstreiks-in-mehr-als-70-staedten-92865052.html) among others.
+I am engaged in public debates on the political effects of protests and have contributed expert opinions for example to  [_Tagesschau_](https://www.tagesschau.de/inland/gesellschaft/fridays-for-future-244.html) (ARD) [_Quarks_](https://www.instagram.com/p/Cxmf-IHKDoX/) (WDR), [_taz-die tageszeitung_](https://taz.de/Klimastreik-von-Fridays-und-Verdi/!5995664/), and [_Frankfurter Rundschau_](https://www.fr.de/politik/verdi-und-fridays-for-future-warnstreiks-in-mehr-als-70-staedten-92865052.html).
 
 
 

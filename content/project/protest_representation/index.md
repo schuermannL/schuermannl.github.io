@@ -15,7 +15,9 @@ tags:
 - Protest
 - Social Movements
 - Representation
-title: Political Representation and Protest Politics in European Democracies (PhD Thesis)
+- Electoral Systems
+title: Political Representation and Protest Politics in European Democracies 
+subtitle: (PhD Thesis)
 url_code: ""
 url_pdf: ""
 url_slides: ""
