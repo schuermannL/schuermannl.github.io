@@ -20,12 +20,12 @@ education:
 email: ""
 highlight_name: true
 interests:
+- European Politics
+- Electoral Systems
+- Political Representation
 - Protest
 - Social Movements
 - Political Participation 
-- Political Representation
-- Electoral Systems
-- European Politics
 - Computational Social Sciences
 organizations:
 - name: WZB Berlin Social Science Center

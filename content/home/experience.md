@@ -43,7 +43,7 @@ experience:
     date_end: '2023-12-31'
     description: |2-
         Responsibilities include:
-        * Member of the Chair for European and Mulrilevel Politics (Prof. Dr. Sven Oliver Proksch)
+        * Member of the Chair for European and Multilevel Politics (Prof. Dr. Sven Oliver Proksch)
         * Writing PhD Thesis: _The Political Representation of Protest in European Democracies_
         * Teaching BA Seminar: _How Can Protest Change Politics? Social Movements and Political Representation_ 
         
