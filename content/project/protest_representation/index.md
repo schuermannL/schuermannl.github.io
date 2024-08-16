@@ -1,5 +1,5 @@
 ---
-date: "2022-06-01T00:00:00Z"
+date: "2019-10-01T00:00:00Z"
 external_link: ""
 image:
   caption: "Source: unsplash.com "
@@ -17,7 +17,7 @@ tags:
 - Representation
 - Electoral Systems
 title: Political Representation and Protest Politics in European Democracies 
-subtitle: (PhD Thesis)
+subtitle: (PhD Project)
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -33,4 +33,6 @@ The main focus of my dissertation lies in the interaction between civil society 
 To answer the research questions of my dissertation project, I use a mixed-method approach combining well-established techniques such as regression analyses and semi-structured interviews with cutting-edge machine-learning methods such as synthetic controls and topic modeling to process big data. A particular focus of my dissertation lies in the analysis of political texts. One data source I use is online political communication on social media, offering the opportunity to access politicians' political communication at the individual level in an unmediated channel. Arguably, MPs' most relevant public communicative action occurs in parliamentary debates, which is why I also analyze political communication in parliaments. The methodological triangulation in my mixed-method approach allows me to take advantage of the benefits of processing large amounts of data while still obtaining theoretically-driven valid results. 
 
 My results indicate that individual politicians and political parties are more responsive to protest events within the borders of their electoral districts. Comparing different levels of the European multilevel system, I can show that the protest location is most influential for legislators on subnational levels. Beyond that, my findings underline the importance of politicians' biographies, which are, besides party ideological and strategic consideration, crucial to explain their responsiveness to political protests. 
+
+I received funding for this project from the _Cologne Graduate School in Management, Economics and Social Sciences_ (CGS) at the University of Cologne, the _Deutscher Akademischer Austauschdienst_ (DAAD, German Academic Exchange Service), and the _Schmittmann-Wahlen Foundation_. Furthermore, parts of this research are funded by the _Deutsche Forschungsgemeinschaft_ (DFG, German Research Foundation) under Germany´s Excellence Strategy – EXC 2126/1– 390838866. 
 
