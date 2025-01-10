@@ -25,7 +25,7 @@ blogdown::build_site()
   ## open folder: /Users/Lennart/github/schuermannl.github.io/content/publication/
   ## duplicate older publication folder and adjust entries
 
-# 3. Change Contact informationn (e.g., phone):
+# 3. Change Contact information (e.g., phone):
   ## open folder: /Users/Lennart/github/schuermannl.github.io/content/authors/admin
   ## open file: _index.md
 

@@ -20,16 +20,18 @@ education:
 email: ""
 highlight_name: true
 interests:
-- European Politics
-- Electoral Systems
-- Political Representation
 - Protest
 - Social Movements
 - Political Participation 
+- European Politics
+- Electoral Systems
+- Political Representation
 - Computational Social Sciences
 organizations:
+- name: Harvard University
+  url: https://ces.fas.harvard.edu/people/lennart-schuermann
 - name: WZB Berlin Social Science Center
-  url: https://www.wzb.eu/en
+  url: https://www.wzb.eu/en/persons/lennart-schurmann
 role: Post-Doctoral Research Fellow
 social:
 - icon: envelope
@@ -51,7 +53,7 @@ superuser: true
 title: Lennart Schürmann
 ---
 
-Hi, I am a [Post-Doctoral Research Fellow](https://www.wzb.eu/en/persons/lennart-schurmann) at the Center for Civil Society Research at WZB Berlin Social Science Center, where I am part of the [WZB ProtestMonitoring](https://www.wzb.eu/en/research/dynamics-of-political-systems/center-for-civil-society-research/projects/politischer-protest-und-radikalisierung-protest-monitoring), a research project on protest and political radicalization in Germany. From January to June 2025, I will be WZB Harvard Merit Fellow/Visiting Scholar at Minda de Gunzburg Center for European Studies at [Harvard University](https://ces.fas.harvard.edu/people/lennart-schuermann).
+Hi, I am a Post-Doctoral Research Fellow at the Minda de Gunzburg Center for European Studies at [Harvard University](https://ces.fas.harvard.edu/people/lennart-schuermann) and at the Center for Civil Society Research at [WZB Berlin Social Science Center](https://www.wzb.eu/en/persons/lennart-schurmann). During the academic year 2025-26, I will be a [DAAD PRIME Fellow](https://www.daad.de/en/studying-in-germany/scholarships/daad-funding-programmes/prime/prime-fellows-202324/) at Freie Universität Berlin and a Max Weber Fellow at the European University Institute.
 
 Previously, I was a PhD Candidate at the Cologne Center for Comparative Politics at [University of Cologne](https://cccp.uni-koeln.de/en/). During my PhD, I have also been a visiting researcher at [University of Amsterdam](https://www.uva.nl/en), [WZB Berlin Social Science Center](https://www.wzb.eu/en), and [Pompeu Fabra University](https://www.upf.edu) in Barcelona. 
 
