@@ -40,6 +40,10 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Schuermann_L
+- icon: paper-plane  
+  icon_pack: fas
+  name: Bluesky
+  url: https://bsky.app/profile/lennartschuermann.bsky.social
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=KMCTS4gAAAAJ

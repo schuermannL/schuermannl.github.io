@@ -8,8 +8,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
-subtitle:
+title: Reach Out
+subtitle: 
 
 content:
   # Automatically link email and phone or display as text?
@@ -25,15 +25,15 @@ content:
 #      captcha: false
 
   # Contact details (edit or remove options as required)
-  email: lennart.schuermann@wzb.eu
+  email: lschuermann@fas.harvard.edu
 # phone: + 49 221 470-76359
   address:
-    street: Reichpietschufer 50
-    city: Berlin
-    postcode: '10785'
-    country: Germany
-    country_code: DE
-  directions: Room D.023
+    street: 27 Kirkland St
+    city: Cambridge
+    postcode: 'MA 02138'
+    country: United States of America
+    country_code: US
+  directions: Room 417
 
 design:
   columns: '2'
