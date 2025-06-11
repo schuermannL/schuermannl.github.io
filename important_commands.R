@@ -25,7 +25,7 @@ blogdown::build_site()
   ## open folder: /Users/Lennart/github/schuermannl.github.io/content/publication/
   ## duplicate older publication folder and adjust entries
 
-# 3. Change Contact information (e.g., phone):
+# 3. Change Contact information (e.g., phone, photo):
   ## open folder: /Users/Lennart/github/schuermannl.github.io/content/authors/admin
   ## open file: _index.md
 
@@ -35,3 +35,4 @@ blogdown::build_site()
 
 # 5. Change icon of previous employer
   ## open folder: /Users/Lennart/github/schuermannl.github.io/themes/starter-hugo-academic/assets/media/icons
+
