@@ -9,7 +9,7 @@ organizations:
   url: https://www.polsoz.fu-berlin.de/en/soziologie/arbeitsbereiche/politische-soziologie/team/wimi/lennart-schuermann.html
 - name: WZB Berlin Social Science Center
   url: https://www.wzb.eu/en/persons/lennart-schurmann
-role: Max Weber Fellow · PRIME Fellow (Post-Doc)
+role: Max Weber Fellow · PRIME Fellow (PostDoc)
 social:
 - icon: envelope
   icon_pack: fas
@@ -34,9 +34,9 @@ superuser: true
 title: Lennart Schürmann
 ---
 
-Hi, I am a political scientist working on the intersection of comparative politics and political sociology. Currently, I work as a Max Weber Fellow at [European University Institute](https://www.eui.eu/en/home) and as PRIME Fellow at the [Freie Universität Berlin](https://www.polsoz.fu-berlin.de/en/soziologie/arbeitsbereiche/politische-soziologie/team/wimi/lennart-schuermann.html)/[WZB Berlin Social Science Center](https://www.wzb.eu/en/persons/lennart-schurmann).
+I’m Lennart, a political scientist exploring the intersection of comparative politics and political sociology. Currently, I work as a Max Weber Fellow at the [European University Institute](https://www.eui.eu/en/home) and as a PRIME Fellow at the [Freie Universität Berlin](https://www.polsoz.fu-berlin.de/en/soziologie/arbeitsbereiche/politische-soziologie/team/wimi/lennart-schuermann.html)/[WZB Berlin Social Science Center](https://www.wzb.eu/en/persons/lennart-schurmann).
 
-Previously, I was Post-Doctoral Fellow at the *Minda de Gunzburg Center for European Studies*, [Harvard University](https://ces.fas.harvard.edu/people/lennart-schuermann) and at the *Center for Civil Society Research*, [WZB Berlin Social Science Center](https://www.wzb.eu/en/persons/lennart-schurmann). I did my PhD at the *Cologne Center for Comparative Politics*, [University of Cologne](https://cccp.uni-koeln.de/en/). During my PhD, I have also been a visiting researcher at *University of Amsterdam*, *WZB Berlin Social Science Center*, and *Pompeu Fabra University in Barcelona*. 
+Previously, I was a Postdoctoral Fellow at the *Minda de Gunzburg Center for European Studies* at [Harvard University](https://ces.fas.harvard.edu/people/lennart-schuermann) and at the WZB’s *Center for Civil Society Research*. I received my PhD from the *Cologne Center for Comparative Politics* at the [University of Cologne](https://cccp.uni-koeln.de/en/). During my doctoral studies, I was also a visiting researcher at the *University of Amsterdam*, the *WZB Berlin Social Science Center*, and *Pompeu Fabra University* in Barcelona.
 
 My research interests include protest, social movements, political participation, political representation, electoral systems, European politics and computational social sciences. In my PhD thesis, I studied [Political Representation and Protest Politics in European Democracies]({{< relref "/protest_representation" >}}). I apply a variety of methods with special focus on computational text analysis tools and survey experiments. In my new project, [Voices Beyond Ballots]({{< relref "/voices_beyond_ballots" >}}), I will develop, among other innovations, new tools for the automated analysis of protest event videos.
 

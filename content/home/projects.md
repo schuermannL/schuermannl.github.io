@@ -27,20 +27,20 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: All
-      tag: '*'
-    - name: Protest
-      tag: Protest
-    - name: Representation
-      tag: Representation
-    - name: Electoral Systems
-      tag: Electoral Systems
-    - name: Campaigning
-      tag: Campaigning
+#  filter_button:
+#    - name: All
+#      tag: '*'
+#    - name: Protest
+#      tag: Protest
+#    - name: Representation
+#      tag: Representation
+#    - name: Electoral Systems
+#      tag: Electoral Systems
+#    - name: Campaigning
+#      tag: Campaigning
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -50,5 +50,5 @@ design:
   view: 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---

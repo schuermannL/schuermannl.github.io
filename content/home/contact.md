@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Reach Out
+title: Get in Touch
 subtitle: 
 
 content:
@@ -25,15 +25,15 @@ content:
 #      captcha: false
 
   # Contact details (edit or remove options as required)
-  email: lschuermann@fas.harvard.edu
+  email: Lennart.Schuermann@eui.eu
 # phone: + 49 221 470-76359
   address:
-    street: 27 Kirkland St
-    city: Cambridge
-    postcode: 'MA 02138'
-    country: United States of America
-    country_code: US
-  directions: Room 417
+#    street: 27 Kirkland St
+#    city: Cambridge
+#    postcode: 'MA 02138'
+#    country: United States of America
+#    country_code: US
+#  directions: Room 417
 
 design:
   columns: '2'
