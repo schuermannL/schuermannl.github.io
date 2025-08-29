@@ -3,8 +3,9 @@ abstract: Members of parliament (MPs) are elected via two different tiers in mix
 authors:
 - admin
 - Sebastian Stier
-date: "2022-03-30T00:00:00Z"
+date: "2023-02-10T00:00:00Z"
 doi: "10.1111/lsq.12379"
+share: false
 featured: true
 image:
   caption: ''
@@ -16,7 +17,7 @@ publication: In *Legislative Studies Quarterly*
 publication_short: 
 publication_types:
 - "2"
-publishDate: "2022-03-30T00:00:00Z"
+publishDate: "2023-02-10T00:00:00Z"
 slides: 
 summary: 
 tags: []

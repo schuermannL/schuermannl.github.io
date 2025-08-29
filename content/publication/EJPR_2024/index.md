@@ -4,20 +4,21 @@ authors:
 - admin
 - Jan Schwalbach
 - Noam Himmelrath
-date: "2024-06-25T00:00:00Z"
+date: "2025-05-25T00:00:00Z"
 doi: "10.1111/1475-6765.12704"
+share: false
 featured: true
 image:
   caption: ''
   focal_point: ""
   preview_only: false
 projects:
-- protest_representation
+- protestmonitoring
 publication: In *European Journal of Political Research*
 publication_short: 
 publication_types:
 - "2"
-publishDate: "2024-06-25T00:00:00Z"
+publishDate: "2025-05-25T00:00:00Z"
 slides: 
 summary: 
 tags: []

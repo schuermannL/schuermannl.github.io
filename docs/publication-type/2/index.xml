@@ -5,7 +5,7 @@
     <link>https://example.com/publication-type/2/</link>
       <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,33 +13,41 @@
     </image>
     
     <item>
-      <title>Location matters! Geospatial dynamics of MP responses to Covid-19 protests in multilevel systems</title>
-      <link>https://example.com/publication/ejpr_2024/</link>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ejpr_2024/</guid>
+      <title>Protest and the rise of left-nationalist challengers: evidence from Germany</title>
+      <link>https://example.com/publication/sms_2025/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sms_2025/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Modulation of Democracy: Partisan Communication During and After Election Campaigns</title>
-      <link>https://example.com/publication/bjpols_2023/</link>
-      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/bjpols_2023/</guid>
+      <title>Location matters! Geospatial dynamics of MP responses to Covid-19 protests in multilevel systems</title>
+      <link>https://example.com/publication/ejpr_2024/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ejpr_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The impact of local protests on political elite communication: evidence from Fridays for Future in Germany</title>
       <link>https://example.com/publication/jepop_2023/</link>
-      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/jepop_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modulation of Democracy: Partisan Communication During and After Election Campaigns</title>
+      <link>https://example.com/publication/bjpols_2023/</link>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bjpols_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Do competitive districts get more political attention? Strategic use of geographic representation during campaign and non-campaign periods</title>
       <link>https://example.com/publication/electoralstudies_2023/</link>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/electoralstudies_2023/</guid>
       <description></description>
     </item>
@@ -47,7 +55,7 @@
     <item>
       <title>Who Represents the Constituency? Online Political Communication by Members of Parliament in the German Mixed-Member Electoral System</title>
       <link>https://example.com/publication/lsq_2022/</link>
-      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/lsq_2022/</guid>
       <description></description>
     </item>

@@ -1,27 +1,27 @@
 ---
 date: "2019-10-01T00:00:00Z"
-external_link: ""
+#external_link: ""
 image:
   caption: "Source: unsplash.com "
   focal_point: Smart
-links:
+#links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #slides: example
-summary: 
+#summary: 
 tags:
-- Protest
-- Social Movements
-- Representation
-- Electoral Systems
+#- Protest
+#- Social Movements
+#- Representation
+#- Electoral Systems
 title: Political Representation and Protest Politics in European Democracies 
 subtitle: (PhD Project)
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 ---
 
 Looking at the newspapers in recent years, one topic seemed to be omnipresent - political protest. Street mobilization constitutes an integral part of political participation in representative democracies nowadays. Yet, to what extent can protests influence politics in representative democracies? And which political actors represent the interests of these protests?

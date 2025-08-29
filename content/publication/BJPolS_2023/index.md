@@ -4,8 +4,9 @@ authors:
 - Bruno Castanho Silva
 - admin
 - Sven-Oliver Proksch
-date: "2023-07-11T00:00:00Z"
+date: "2024-04-11T00:00:00Z"
 doi: "10.1017/S0007123423000169"
+share: false
 featured: true
 image:
   caption: ''
@@ -17,7 +18,7 @@ publication: In *British Journal of Political Science*
 publication_short: 
 publication_types:
 - "2"
-publishDate: "2023-07-11T00:00:00Z"
+publishDate: "2024-04-11T00:00:00Z"
 slides: 
 summary: 
 tags: []

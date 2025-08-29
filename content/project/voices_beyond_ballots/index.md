@@ -1,5 +1,5 @@
 ---
-date: "2024-08-15T00:00:00Z"
+date: "2025-01-15T00:00:00Z"
 external_link: ""
 image:
   caption: "Source: created by author"
@@ -11,11 +11,11 @@ links:
 #  url: https://twitter.com/georgecushen
 #slides: example
 summary: 
-tags:
-- Protest
-- Social Movements
-- Representation
-- Campaigning
+#tags:
+#- Protest
+#- Social Movements
+#- Representation
+#- Campaigning
 title: Empowering Voices Beyond Ballots? 
 subtitle: Representative Claims by Non-Elected Political Actors (Voices-Beyond-Ballots)
 url_code: ""
