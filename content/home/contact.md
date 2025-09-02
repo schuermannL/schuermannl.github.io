@@ -28,12 +28,12 @@ content:
   email: Lennart.Schuermann@eui.eu
 # phone: + 49 221 470-76359
   address:
-#    street: 27 Kirkland St
-#    city: Cambridge
-#    postcode: 'MA 02138'
-#    country: United States of America
-#    country_code: US
-#  directions: Room 417
+    street: Via dei Roccettini 9
+    city: 50014 San Domenico di Fiesole
+    postcode: 'Italy'
+#    country: Italy
+#    country_code: IT
+  directions: Max Weber Programme | Badia Fiesolana
 
 design:
   columns: '2'
