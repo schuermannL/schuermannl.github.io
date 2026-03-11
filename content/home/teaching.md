@@ -27,10 +27,34 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: 
+    date_end: ''
+    date_start: '2026-04-01'
+    description: 'Instructor'
+    organization: College of Europe Natolin (PL)
+    organization_url: 
+    title: "Causes and Consequences of Political Protest: Lessons from Environmental and Climate Mobilization in Europe"
+    url: ''
+  - certificate_url: 
+    date_end: ''
+    date_start: '2026-03-01'
+    description: 'Guest Lecturer'
+    organization: University of Westminster (UK)
+    organization_url: 
+    title: Environmental Protest
+    url: ''
+  - certificate_url: 
+    date_end: ''
+    date_start: '2026-03-01'
+    description: 'Guest Lecturer'
+    organization: University of Westminster (UK)
+    organization_url: 
+    title: "EU Enlargement: Institutional Rationale and Citizen Perceptions"
+    url: ''
+  - certificate_url: 
     date_end: '2022-09-30'
     date_start: '2022-04-01'
     description: 'Instructor'
-    organization: University of Cologne
+    organization: University of Cologne (DE)
     organization_url: 
     title: How Can Protest Change Politics? Social Movements and Political Representation (BA Seminar)
     url: 'https://cccp.uni-koeln.de/sites/cccp/Lehre/2022_SS/Syllabus_Soziale_Bewegungen_und_Politische_Repra__sentation.pdf'
@@ -38,7 +62,7 @@ item:
     date_end: ''
     date_start: '2022-05-01'
     description: 'Organizer together with J. Bekmuratovna'
-    organization: University of Cologne
+    organization: University of Cologne (DE)
     organization_url: 
     title: Creating a Webpage with R (PhD Workshop)
     url: ''
@@ -46,7 +70,7 @@ item:
     date_end: '2021-07-30'
     date_start: '2021-04-01'
     description: 'Organizer together with Ebru Ece Özbey'
-    organization: University of Cologne
+    organization: University of Cologne (DE)
     organization_url: 
     title: Authoring a PhD (PhD Workshop)
     url: ''
@@ -54,7 +78,7 @@ item:
     date_end: '2021-03-30'
     date_start: '2020-12-01'
     description: 'Teaching Assistant to Jun.-Prof. Chitralekha Basu, PhD'
-    organization: University of Cologne
+    organization: University of Cologne (DE)
     organization_url: 
     title: Strategic Models of Democratic Politics (MA Seminar)
     url: ''
@@ -62,7 +86,7 @@ item:
     date_end: '2020-12-30'
     date_start: '2019-10-01'
     description: 'Teaching Assistant to Dr. Bruno Castanho Silva'
-    organization: University of Cologne
+    organization: University of Cologne (DE)
     organization_url: 
     title: Introduction to Quantitative Methods (MA Seminar)
     url: ''
@@ -70,7 +94,7 @@ item:
     date_end: '2017-09-30'
     date_start: '2017-04-01'
     description: 'Teaching Assistant to Dr. Dominic Nyhuis'
-    organization: Goethe University Frankfurt
+    organization: Goethe University Frankfurt (DE)
     organization_url: 
     title: "Applied Statistical Analysis: Political Representation by Parliamentary Elites (BA Seminar)"
     url: ''
@@ -78,7 +102,7 @@ item:
     date_end: '2015-09-30'
     date_start: '2014-04-01'
     description: 'Teaching Assistant to Teaching Assistant to Prof. Dr. Marita Jacob'
-    organization: University of Cologne
+    organization: University of Cologne (DE)
     organization_url: 
     title: "Introduction to Statistics for Social Scientists (BA Tutorial)"
     url: ''

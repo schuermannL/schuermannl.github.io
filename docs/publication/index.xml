@@ -5,12 +5,20 @@
     <link>https://example.com/publication/</link>
       <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://example.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Street mobilisation during election campaigns in multilevel systems: a supply–demand analysis</title>
+      <link>https://example.com/publication/wep_2026/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wep_2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Protest and the rise of left-nationalist challengers: evidence from Germany</title>
