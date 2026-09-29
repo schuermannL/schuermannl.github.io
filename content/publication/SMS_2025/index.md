@@ -4,7 +4,7 @@ authors:
 - admin
 - Endre Borbáth
 - Swen Hutter
-date: "2025-07-17T00:00:00Z"
+date: "2026-07-17T00:00:00Z"
 doi: "10.1080/14742837.2025.2530410"
 share: false
 featured: true
@@ -18,7 +18,7 @@ publication: In *Social Movement Studies*
 publication_short: 
 publication_types:
 - "2"
-publishDate: "2025-07-17T00:00:00Z"
+publishDate: "2026-07-17T00:00:00Z"
 slides: 
 summary: 
 tags: []
